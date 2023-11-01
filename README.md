@@ -1,2 +1,2 @@
 # TP_Actionneur_et_automatique
-Tp réalisé par Quentin Henriet, Bastien Chinianga et Clément Coutouillat
+2324_ESE3745_<Quentin_Henriet><Bastien_Chinianga><Clément_Coutouillat>
